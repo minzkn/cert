@@ -37,7 +37,3 @@ usage: ./cert.sh {rootca | gen [{name}] | clean}
 *.pem : PEM형식의 인증서 파일
 *.srl : Serial 파일
 </pre>
-
----
-
-참고: "rsyslog 인증서 관련 설치 및 사용법":http://10.0.8.201/issues/74009
